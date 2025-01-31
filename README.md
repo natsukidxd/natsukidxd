@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @natsukidxd
-- 👀 I’m interested in macro programs or scripts...
-- 🌱 I’m currently learning C#...
 - 📫 How to reach me: 
 -  Twitter: @FerrerKristDave
 -  Email: natsukid123@gmail.com
